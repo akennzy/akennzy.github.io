@@ -7,30 +7,25 @@ body {
   line-height: 1.6;
   color: #333;
 }
-
 header {
   background-color: #4CAF50;
   color: #fff;
   padding: 20px;
   text-align: center;
 }
-
 nav {
   background: #388E3C;
   padding: 10px;
   text-align: center;
 }
-
 nav a {
   color: white;
   margin: 0 10px;
   text-decoration: none;
 }
-
 nav a:hover {
   text-decoration: underline;
 }
-
 main {
   max-width: 800px;
   margin: 40px auto;
@@ -39,24 +34,13 @@ main {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
-
-h1 {
-  font-size: 28px;
-}
-
+h1 { font-size: 28px; }
 h2 {
   color: #4CAF50;
   margin-top: 30px;
 }
-
-ul {
-  padding-left: 20px;
-}
-
-li {
-  margin-bottom: 8px;
-}
-
+ul { padding-left: 20px; }
+li { margin-bottom: 8px; }
 .dica {
   background-color: #e8f5e9;
   border-left: 4px solid #4CAF50;
@@ -64,7 +48,6 @@ li {
   margin-top: 10px;
   font-style: italic;
 }
-
 .adsense-placeholder {
   text-align: center;
   padding: 20px;
@@ -73,7 +56,6 @@ li {
   border: 1px dashed #cddc39;
   color: #827717;
 }
-
 footer {
   text-align: center;
   padding: 20px;

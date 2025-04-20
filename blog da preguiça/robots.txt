@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://akennzy.github.io/sitemap.xml

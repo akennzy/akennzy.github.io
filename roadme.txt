@@ -1,0 +1,19 @@
+# Blog da Preguiça
+
+Este é um blog simples e responsivo criado com HTML, CSS e JavaScript puro.
+
+## Funcionalidades
+- Design responsivo
+- Botão de voltar ao topo
+- Botão de curtir local
+- Compartilhamento no WhatsApp
+- Estrutura organizada por pastas
+- SEO otimizado com meta tags e Open Graph
+- Pronto para AdSense
+
+## Estrutura esperada
+
+## Publicação
+Hospedado gratuitamente no GitHub Pages:  
+👉 https://akennzy.github.io
+
